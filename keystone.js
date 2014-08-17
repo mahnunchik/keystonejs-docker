@@ -14,7 +14,7 @@ var keystone = require('keystone');
 keystone.init({
 
 	'name': 'KeystoneJS Example Application',
-	'brand': 'KeystoneJS Example Application',
+	'brand': 'KeystoneJS',
 
 	'less': 'public',
 	'static': 'public',
