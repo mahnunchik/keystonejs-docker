@@ -1,5 +1,7 @@
 # KeystoneJS Dockerized
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/mahnunchik/keystonejs-docker.svg)](https://greenkeeper.io/)
+
 [mahnunchik/keystonejs](https://registry.hub.docker.com/u/mahnunchik/keystonejs/) is a [docker](https://docker.com) image of [KeystoneJS](http://keystonejs.com) cms.
 
 [KeystoneJS](http://keystonejs.com) is a powerful new Node.js content management system and web app framework built on [express](http://expressjs.com) and [mongoose](http://mongoosejs.com) that makes it easy to create sophisticated web sites and apps, and gives you a beautiful, auto-generated Admin UI.
