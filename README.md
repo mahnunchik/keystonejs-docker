@@ -10,7 +10,7 @@ Official GitHub repository: [JedWatson/keystone](https://github.com/JedWatson/ke
 
 Run MongoDB as separate container:
 
-	docker run -d -name mongo dockerfile/mongodb
+	docker run -d --name mongo dockerfile/mongodb
 
 Run KeystoneJS linked with MongoDB:
 
